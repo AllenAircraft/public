@@ -1368,14 +1368,13 @@ $UninstallPrograms = @(
         "Dell Optimizer Core"
     "DellInc.PartnerPromo"
     "DellInc.DellOptimizer"
-    "DellInc.DellCommandUpdate"
+    
         "DellInc.DellPowerManager"
         "DellInc.DellDigitalDelivery"
         "DellInc.DellSupportAssistforPCs"
         "DellInc.PartnerPromo"
-        "Dell Command | Update"
-    "Dell Command | Update for Windows Universal"
-        "Dell Command | Update for Windows 10"
+        
+
         "Dell Command | Power Manager"
         "Dell Digital Delivery Service"
     "Dell Digital Delivery"
