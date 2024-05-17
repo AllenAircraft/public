@@ -1402,6 +1402,10 @@ $WhitelistedApps = @(
     "WavesAudio.MaxxAudioProforDell2019"
     "Dell - Extension*"
     "Dell, Inc. - Firmware*"
+    "DellInc.DellCommandUpdate"
+    "Dell Command | Update"
+    "Dell Command | Update for Windows Universal"
+    "Dell Command | Update for Windows 10"
 )
 
 ##Add custom whitelist apps
